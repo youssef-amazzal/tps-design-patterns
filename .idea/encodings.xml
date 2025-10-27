@@ -9,5 +9,7 @@
     <file url="file://$PROJECT_DIR$/20-decorator-pattern-coffee-machine/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/30-adapter-pattern-hdmi-vga-adapters/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/30-adapter-pattern-hdmi-vga-adapters/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/30-compiste-pattern-generic-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/30-compiste-pattern-generic-impl/src/main/resources" charset="UTF-8" />
   </component>
 </project>

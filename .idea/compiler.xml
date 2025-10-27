@@ -6,9 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="coffee-machine" />
-        <module name="strategy-pattern-employee" />
-        <module name="10-observer-pattern-generic-impl" />
+        <module name="20-decorator-pattern-coffee-machine" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
