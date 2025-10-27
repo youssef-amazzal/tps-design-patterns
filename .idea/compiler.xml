@@ -6,8 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="coffee-machine" />
         <module name="strategy-pattern-employee" />
+        <module name="10-observer-pattern-generic-impl" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="30-adapter-pattern-hdmi-vga-adapters" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
