@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/20-decorator-pattern-coffee-machine/30-adapter-pattern-hdmi-vga-adapters/pom.xml" />
         <option value="$PROJECT_DIR$/10-observer-pattern-generic-impl/pom.xml" />
         <option value="$PROJECT_DIR$/30-compiste-pattern-generic-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/40-adapter-pattern-hmdi-vga/pom.xml" />
       </list>
     </option>
   </component>
