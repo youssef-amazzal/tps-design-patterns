@@ -11,7 +11,13 @@
         <option value="$PROJECT_DIR$/10-observer-pattern-generic-impl/pom.xml" />
         <option value="$PROJECT_DIR$/30-compiste-pattern-generic-impl/pom.xml" />
         <option value="$PROJECT_DIR$/40-adapter-pattern-hmdi-vga/pom.xml" />
+        <option value="$PROJECT_DIR$/999-td-and-exams/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/999-td-and-exams/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">

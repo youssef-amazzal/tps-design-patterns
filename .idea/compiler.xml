@@ -15,6 +15,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="30-adapter-pattern-hdmi-vga-adapters" target="21" />
+      <module name="999-td-and-exams" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
